@@ -42,6 +42,8 @@ Este tablero proporciona un análisis de los datos de listados y reservas de Air
 ## Fuente de Datos
 Los datos provienen de los conjuntos de datos públicos de Airbnb y se actualizan regularmente para reflejar la información más reciente.
 
+![Airbnb Report](https://github.com/andresRah/Keepcoding-exploracion-y-visualizacion-de-datos/assets/10521199/8e8552aa-3325-4695-a80a-af49871457ef)
+
 ## Uso
 Para interactuar con el tablero:
 1. Seleccione los filtros deseados de los menús desplegables.
