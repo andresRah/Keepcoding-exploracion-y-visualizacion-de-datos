@@ -1,58 +1,49 @@
-# Airbnb Data Dashboard README
+# Archivo README del Tablero de Datos de Airbnb
 
-## Overview
-This dashboard provides a comprehensive analysis of Airbnb listing and reservation data. It is designed to offer insights into various metrics such as the number of reviews, average monthly reviews, pricing, and booking statistics for different neighborhoods.
+## Visión General
+Este tablero proporciona un análisis de los datos de listados y reservas de Airbnb. Está diseñado para ofrecer perspectivas sobre varias métricas como el número de reseñas, promedio de reseñas mensuales, precios y estadísticas de reservaciones para diferentes vecindarios.
 
-## Dashboard Sections
+## Secciones del Tablero
 
-### Neighborhood and Room Type Filters
-- **Neighbourhood**: Drop-down menu to select data for a specific neighborhood.
-- **Room Type**: Drop-down menu to filter data by type of room.
+### Filtros de Vecindario y Tipo de Habitación
+- **Vecindario**: Menú desplegable para seleccionar datos de un vecindario específico.
+- **Tipo de Habitación**: Menú desplegable para filtrar los datos por tipo de habitación.
 
-### Key Metrics
-- **Number of Reviews**: Total count of reviews.
-- **Average Reviews per Month**: Mean number of reviews received per month.
-- **Average Price**: Mean listing price.
-- **Host ID Count**: Unique count of host IDs.
-- **Neighbourhood Count**: Count of neighborhoods listed.
+### Métricas Clave
+- **Número de Reseñas**: Conteo total de reseñas.
+- **Promedio de Reseñas por Mes**: Promedio de reseñas recibidas por mes.
+- **Precio Promedio**: Precio promedio de los listados.
+- **Recuento de Host ID**: Conteo único de identificaciones de anfitriones.
+- **Recuento de Vecindario**: Conteo de vecindarios listados.
 
-### Statistical Analysis Sections
+### Secciones de Análisis Estadístico
 
-#### Review Statistics
-- **Average Reviews per Month by Neighborhood and Room Type**: Bar graph depicting average monthly reviews.
-- **Total Reviews per Month**: Line graph showing the trend of total reviews each month.
-- **Number of Reviews per Year**: Bar graph representing the annual count of reviews.
+#### Estadísticas de Reseñas
+- **Promedio de Reseñas por Mes por Vecindario y Tipo de Habitación**: Gráfico de barras que muestra el promedio mensual de reseñas.
+- **Total de Reseñas por Mes**: Gráfico de línea que muestra la tendencia del total de reseñas cada mes.
+- **Número de Reseñas por Año**: Gráfico de barras que representa el conteo anual de reseñas.
 
-#### Top 10 Hosts by Total Reviews
-- A list of top 10 Airbnb hosts ordered by total number of reviews received.
+#### Top 10 Anfitriones por Total de Reseñas
+- Lista de los 10 principales anfitriones de Airbnb ordenada por el número total de reseñas recibidas.
 
-#### Price Statistics
-- **Average Price by Neighborhood and Room Type**: Table displaying average prices.
-- **Average Price by Neighborhood**: Bar graph showing average prices for each neighborhood.
+#### Estadísticas de Precios
+- **Precio Promedio por Vecindario y Tipo de Habitación**: Tabla que muestra los precios promedios.
+- **Precio Promedio por Vecindario**: Gráfico de barras que muestra los precios promedios para cada vecindario.
 
-#### Property Index by Area
-- Pie chart showing the percentage distribution of properties across different areas.
+#### Índice de Propiedades por Zona
+- Gráfico circular que muestra la distribución porcentual de propiedades en diferentes áreas.
 
-#### Reservation Statistics
-- **Total Reservations by Neighborhood**: Bar graph with reservation counts for each neighborhood.
+#### Estadísticas de Reservas
+- **Total de Reservas por Vecindario**: Gráfico de barras con conteos de reservaciones para cada vecindario.
 
-#### Map of Properties
-- A geographical map indicating the location and density of properties.
+#### Mapa de Propiedades
+- Mapa geográfico que indica la ubicación y densidad de las propiedades.
 
-## Data Source
-The data is sourced from Airbnb's public datasets and is regularly updated to reflect the most recent information.
+## Fuente de Datos
+Los datos provienen de los conjuntos de datos públicos de Airbnb y se actualizan regularmente para reflejar la información más reciente.
 
-## Usage
-To interact with the dashboard:
-1. Select the desired filters from the drop-down menus.
-2. Hover over graphs and maps to view specific data points and additional details.
-3. Use the side navigation to switch between different data views.
-
-## Maintenance
-This dashboard is maintained by the Data Analytics Team. For updates or corrections, please contact [data.team@email.com].
-
-## License
-This dashboard is provided for internal use only and is not to be distributed without permission from Airbnb.
-
----
-Note: The information provided in this README is for descriptive purposes and should be adapted to fit the actual content and functionality of your dashboard.
+## Uso
+Para interactuar con el tablero:
+1. Seleccione los filtros deseados de los menús desplegables.
+2. Pase el cursor sobre gráficos y mapas para ver puntos de datos específicos y detalles adicionales.
+3. Utilice la navegación lateral para cambiar entre diferentes vistas de datos.
